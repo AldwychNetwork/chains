@@ -1,0 +1,18 @@
+{
+  "name": "Aldwych Network",
+  "chain": "ALD",
+  "network": "mainnet",
+  "rpc": [
+    "https://rpc.aldwych.blaquetec.org"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Ald",
+    "symbol": "ALD",
+    "decimals": 18
+  },
+  "infoURL": "https://aldwych.network",
+  "shortName": "ald",
+  "chainId": 1266,
+  "networkId": 1266
+}
